@@ -1,0 +1,19 @@
+{
+  "name": "data_wrangling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "elasticsearch": "^16.7.2",
+    "nanoid": "^3.1.25",
+    "stream-chain": "^2.2.4",
+    "stream-json": "^1.7.3"
+  }
+}
